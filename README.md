@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IhonaMaria
 - 👀 I’m interested in engineering 
-- 🌱 I’m currently learning how to code in my biomedical engineering bachelor
+- 🌱 I’m currently learning how to code for my biomedical engineering bachelor
 - 💞️ I’m looking to collaborate on projects related with medical engineering and informatics
 - 📫 How to reach me: ihona.correadecabo@gmail.com
 
