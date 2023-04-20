@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IhonaMaria
 - 👀 I’m interested in engineering, ML and AI 
-- 🌱 I’m currently learning how to code in Python
+- 🌱 I’m currently learning how to code useful things in Python
 - 💞️ I’m looking to collaborate on projects related with medical engineering and informatics
 - 📫 How to reach me: ihona.correadecabo@gmail.com
 
