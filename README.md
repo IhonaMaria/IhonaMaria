@@ -49,12 +49,12 @@
       <td>App that uses IMU data to measure and improve the performance of shot put athletes</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/IhonaMaria/Heart-Attack-prediction-and-analysis"><b>Heart attack prediction</b></a></td>
-      <td>Predict the occurrence of having a heart attack using different Machine Learning algorithms and approaches  </td>
+      <td><a href="https://github.com/IhonaMaria/Medical-insurance-cost-prediction"><b>Medical insurance cost prediction tool</b></a></td>
+      <td>End-to-end Machine Learning project that consists of an interactive app where you get the prediction of the medical insurance costs based on your inputs  </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/IhonaMaria/Website-performance-analysis"><b>Website performance analysis</b></a></td>
-      <td>Analysis of a website performance using SQL to provide valuable business insights</td>
+      <td><a href="https://github.com/IhonaMaria/Heart-Attack-prediction-and-analysis"><b>Heart attack prediction</b></a></td>
+      <td>Predict the occurrence of having a heart attack using different Machine Learning algorithms and approaches  </td>
     </tr>
   </tbody>
 </table>
