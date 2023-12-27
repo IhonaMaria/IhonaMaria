@@ -56,6 +56,10 @@
       <td><a href="https://github.com/IhonaMaria/Heart-Attack-prediction-and-analysis"><b>Heart attack prediction</b></a></td>
       <td>Predict the occurrence of having a heart attack using different Machine Learning algorithms and approaches  </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/IhonaMaria/spam_classifier_app"><b>Spam detector app</b></a></td>
+      <td>Train a classifier to predict the probability of an email being spam and use it to build a user-friendly app.  </td>
+    </tr>
   </tbody>
 </table>
 
