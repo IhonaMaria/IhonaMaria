@@ -7,7 +7,7 @@
 ## 📖 About me
 
 * 💻 MSc student in Biomedical Data Science at URV (graduating in June 2025)
-* 🎓 Junior Biomedical Engineer from UPC
+* 🎓 Biomedical Engineer from UPC
 * 🎨 Currently learning and improving my skills in AI & MLOps
 * 💞️ Passionate about data and the intersection of AI in business and healthcare
 * 🌐 Looking forward to collaborate in Data Science and Machine Learning projects
